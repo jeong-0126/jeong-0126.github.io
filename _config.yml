@@ -27,15 +27,13 @@ url: "https://jeong-0126.github.io"
 highlighter: rouge
 svg:
   optimize: true
-# Build settings
-theme: minima
+# Build settingsd
 highlighter-theme: monokai
 date_format: "%Y-%M-%D"
 plugins:
   - jekyll-feed
 category_dir: category/
 tag_dir: tag/
-markdown: kramdown
 
 
 # Exclude from processing.
